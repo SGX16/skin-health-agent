@@ -1,0 +1,20 @@
+# 模型权重（数 GB，不入库；按 README 自行下载）
+models/
+
+# Python
+__pycache__/
+*.py[cod]
+.venv/
+venv/
+*.egg-info/
+
+# 编辑器 / 系统
+.idea/
+.vscode/
+.DS_Store
+Thumbs.db
+
+# 运行产物
+*.log
+gradio_cached_examples/
+flagged/
